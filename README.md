@@ -1,4 +1,4 @@
-# 📩 Contact Form Automation (No-Code)
+# Contact Form Automation (No-Code)
 
 ## 🇫🇷 Résumé
 
